@@ -1,0 +1,14 @@
+@keyframes header__rotation {
+    from {
+        transform: rotate(0deg);
+    }
+    to {
+        transform: rotate(360deg);
+    }
+}
+
+.header__rotation {
+    animation-name: header__rotation;
+    animation-duration: 20s;
+    animation-iteration-count: infinite;
+}

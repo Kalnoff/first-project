@@ -1,0 +1,6 @@
+.description__two-columns_main-text{
+    display: flex;
+    flex-direction: column;
+    width: 80%;
+    font-family: 'Inter', 'Arial', sans-serif;
+}

@@ -1,0 +1,12 @@
+.techniques__cards {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    max-width: 920px;
+    width: 80%;
+    padding: 60px 0px 10px 0px;
+    flex-wrap: wrap;
+    margin: 0 auto;
+    height: 163vh;
+}
+

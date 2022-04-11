@@ -1,0 +1,10 @@
+.description {
+    display: flex;
+    justify-content: center;
+    margin: 100px 0 0 0;
+}
+
+.span-accent {
+    font-weight: 700;
+    font-family: 'Inter', 'Arial', sans-serif;
+}

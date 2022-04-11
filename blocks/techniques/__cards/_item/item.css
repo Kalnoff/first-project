@@ -1,0 +1,16 @@
+.techniques__cards_item {
+    width: 200px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding-right: 100px;
+}
+
+.techniques__cards_item:last-of-type {
+    padding-right: 0;
+}
+
+.techniques__cards_item_padding {
+    padding-right: 100px;
+}
